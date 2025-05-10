@@ -16,7 +16,13 @@ public class types {
           System.out.println("character data type "+d);
 
           String s = " i am in journey of becoming best version of myself";
-          System.out.println("string data type"+s);
-          
+          System.out.println("string data type : "+s);
+
             }
 }
+
+// integer data type : 34
+// flaot data type 45.5
+// double data type 345.5
+// character data type c
+// string data type i am in journey of becoming best version of myself

@@ -16,9 +16,10 @@ public class variable {
            // updation - decrement in value
            x =  x - 20;
            System.out.println(x);
-
-
-
-
     }
 }
+
+// 500
+// 7
+// 13
+// -7
