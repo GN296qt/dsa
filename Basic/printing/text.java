@@ -6,6 +6,9 @@ package Basic.printing;
           System.out.print("physics wallah");
           System.out.print("upsc wallah");
           System.out.println(" nda wallah");
-
+          System.out.println("heloo pw "+" hellow cw");
      }
     }
+// college wallah
+// physics wallahupsc wallah nda wallah
+// heloo pw  hellow cw

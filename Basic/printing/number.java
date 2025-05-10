@@ -8,3 +8,7 @@ public class number {
             System.out.println("4+3");
      }
 }
+// 4
+// 4
+// 7
+// 4+3
